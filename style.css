@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: brown;
+    color: steelblue;
+    margin: 50px;
+    text-shadow: hotpink 5px 5px;
+    font-family: cursive;
+    padding: 7px;
+    border: 10px solid greenyellow;
+    border-radius: 15px;
+}
+h2{
+    text-align: center;
+    background-color: indigo;
+    color: cyan;
+    border: 6px dashed indianred;
+    margin: 70px;
+    padding: 14px;
+    border-radius: 20px;
+
+}
+span{
+    color: steelblue;
+    background-color: brown;
+}
+#good{
+    background-color: lime;
+    color: peru;
+    border: 20px solid hotpink;
+    margin: 100px;
+    padding: 25px;
+    font-size: 20px;
+}
+#bad{
+    background-color: red;
+    color: violet;
+    border: cyan 20px solid;
+    margin: 100px;
+    padding: 30px;
+    font-size: 20px;
+}
+.opinion{
+    font-size: 30px;
+    background-color: green;
+    color: ivory;
+    font-style: italic;
+    
+}
